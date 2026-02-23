@@ -29,8 +29,10 @@ Built to bridge the gap between static Jupyter Notebooks and deployable data pro
 | **Landing & Upload** | **Story Mode Insights** |
 | :---: | :---: |
 | ![Landing](images/front_page.png) | ![Story](images/story_mode.png) |
-| **Visual Lab** | **Executive PDF Report** |
+| **Visual Lab** | **Dark Mode** |
 | ![Visual Lab](images/visual_lab.png) | ![Dark mode](images/dark_mode.png) |
+| **ML Studio** | **Data Assistant** |
+| ![ML Studio](images/ML_studio.png) | ![Data Assistant](images/data_assistant.png) |
 
 ---
 
@@ -87,7 +89,7 @@ ai-data-analyst/
     ├── landing.png
     ├── story_mode.png
     ├── visual_lab.png
-    └── executive_report.png
+    └── dark_mode.png
 ```
 
 ## 🎯 Key Highlights
