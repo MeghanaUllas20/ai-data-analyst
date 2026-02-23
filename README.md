@@ -71,18 +71,24 @@ Built to bridge the gap between static Jupyter Notebooks and deployable data pro
 
 The project follows a modular design pattern for easy maintenance and feature expansion:
 
-```text
+```bash
 ai-data-analyst/
-├── app.py                # Main entry point & UI layout
-├── requirements.txt      # Project dependencies
-├── modules/              # Logic components
-│   ├── ai_engine.py      # Insight detection logic
-│   ├── storytelling.py   # Narrative generation
-│   ├── ml_lab.py         # Model training & evaluation
-│   └── pdf_engine.py     # PDF export functionality
-└── images/               # App assets & screenshots
-
----
+│
+├── app.py                 # Main Streamlit app
+├── requirements.txt
+│
+├── modules/
+│   ├── ai_engine.py       # Insight detection engine
+│   ├── storytelling.py    # Narrative generator
+│   ├── ml_lab.py          # AutoML module
+│   └── pdf_engine.py      # Executive report generator
+│
+└── images/
+    ├── landing.png
+    ├── story_mode.png
+    ├── visual_lab.png
+    └── executive_report.png
+```
 
 ## 🎯 Key Highlights
 
