@@ -28,7 +28,7 @@ Built to bridge the gap between static Jupyter Notebooks and deployable data pro
 
 | **Landing & Upload** | **Story Mode Insights** |
 | :---: | :---: |
-| ![Landing](images/landing.png) | ![Story](images/story_mode.png) |
+| ![Landing](images/front_page.png) | ![Story](images/story_mode.png) |
 | **Visual Lab** | **Executive PDF Report** |
 | ![Visual Lab](images/visual_lab.png) | ![Dark mode](images/dark_mode.png) |
 
