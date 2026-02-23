@@ -30,7 +30,7 @@ Built to bridge the gap between static Jupyter Notebooks and deployable data pro
 | :---: | :---: |
 | ![Landing](images/landing.png) | ![Story](images/story_mode.png) |
 | **Visual Lab** | **Executive PDF Report** |
-| ![Visual Lab](images/visual_lab.png) | ![Report](images/executive_report.png) |
+| ![Visual Lab](images/visual_lab.png) | ![Dark mode](images/dark_mode.png) |
 
 ---
 
